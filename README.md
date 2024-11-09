@@ -1,6 +1,6 @@
-# 🚀 Machine Learning Project with ZenML and MLflow
+# 🏠 Advanced End-to-End House Price Predictor with ZenML and MLflow
 
-Welcome to this ML project, which uses **ZenML** for pipeline management and **MLflow** for experiment tracking and model deployment. Follow the steps below to set up your environment, run the pipeline, and deploy the model.
+This project is an **Advanced End-to-End House Price Predictor** that uses **ZenML** for orchestrating machine learning pipelines and **MLflow** for experiment tracking and model deployment. The pipeline covers all steps from data processing, model training, and evaluation to deployment, making it a comprehensive solution for predicting house prices based on various features.
 
 ---
 
@@ -113,4 +113,5 @@ This project is licensed under **Devaraj Veeravel**.
 ---
 
 Feel free to reach out if you encounter any issues or need further help. Happy coding! 🚀
+
 
